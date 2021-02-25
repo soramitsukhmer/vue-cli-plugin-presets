@@ -1,5 +1,5 @@
 {
-  "name": "@soramitsukhmer/vue-cli-plugin-soramitsukhmer-presets",
+  "name": "vue-cli-plugin-soramitsukhmer-presets",
   "version": "0.0.1",
   "main": "index.js",
   "repository": "git@github.com:soramitsukhmer/vue-cli-plugin-soramitsukhmer-presets.git",
