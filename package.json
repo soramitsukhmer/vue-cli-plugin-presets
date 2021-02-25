@@ -1,0 +1,16 @@
+{
+  "name": "@soramitsukhmer/vue-cli-plugin-soramitsukhmer-presets",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:soramitsukhmer/vue-cli-plugin-soramitsukhmer-presets.git",
+  "author": "Socheat Sok <socheat@soramitsukhmer.com>",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "cli",
+    "soramitsukhmer-preset"
+  ],
+  "devDependencies": {
+    "@vue/cli-shared-utils": "^4.3.1"
+  }
+}
