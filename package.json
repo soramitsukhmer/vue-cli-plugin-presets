@@ -10,6 +10,9 @@
     "cli",
     "soramitsukhmer-preset"
   ],
+  "scripts": {
+    "bump:release": "yarn version"
+  },
   "devDependencies": {
     "@vue/cli-shared-utils": "^4.3.1"
   },
