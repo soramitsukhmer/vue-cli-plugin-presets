@@ -16,7 +16,7 @@ Before you do, make sure you have the following configuration in `~/.npmrc`:
 Then
 
 ```sh
-vue create --preset @soramitsukhmer/vue-cli-plugin-presets example-project
+vue create --preset soramitsukhmer/vue-cli-plugin-presets example-project
 ```
 
 ## ⭐ Features
