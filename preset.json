@@ -17,6 +17,7 @@
       "preset": "configure",
       "replaceComponents": true,
       "useTheme": true,
+      "useCustomProperties": true,
       "iconFont": "mdi",
       "installFonts": true,
       "useAlaCarte": true,
