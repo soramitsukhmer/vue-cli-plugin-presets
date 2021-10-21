@@ -22,6 +22,9 @@
       "useAlaCarte": true,
       "locale": "en"
     },
-    "@soramitsukhmer/vue-cli-plugin-scaffold": {}
+    "@soramitsukhmer/vue-cli-plugin-scaffold": {
+      "useMock": false,
+      "useSoramitsuVuetifyPlugin": true
+    }
   }
 }
