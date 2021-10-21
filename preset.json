@@ -13,19 +13,19 @@
       "lintOn": ["save", "commit"]
     },
     "@vue/cli-plugin-unit-jest": {},
+    "@soramitsukhmer/vue-cli-plugin-scaffold": {
+      "useMock": false,
+      "useSoramitsuVuetifyPlugin": true
+    },
     "vue-cli-plugin-vuetify": {
       "preset": "configure",
-      "replaceComponents": true,
+      "replaceComponents": false,
       "useTheme": true,
       "useCustomProperties": true,
       "iconFont": "mdi",
       "installFonts": true,
       "useAlaCarte": true,
       "locale": "en"
-    },
-    "@soramitsukhmer/vue-cli-plugin-scaffold": {
-      "useMock": false,
-      "useSoramitsuVuetifyPlugin": true
     }
   }
 }
