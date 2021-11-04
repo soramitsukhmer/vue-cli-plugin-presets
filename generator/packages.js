@@ -17,5 +17,10 @@ module.exports = {
   gitHooks: {
     "post-commit": "commitlint --edit",
     "pre-push": "commitlint --edit"
+  },
+  // coa - Last release contains malicious code
+  // https://github.com/veged/coa/issues/99#
+  resolutions: {
+    "coa": "2.0.2"
   }
 }
