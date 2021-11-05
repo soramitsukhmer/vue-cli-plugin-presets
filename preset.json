@@ -14,10 +14,12 @@
     },
     "@vue/cli-plugin-unit-jest": {},
     "@soramitsukhmer/vue-cli-plugin-scaffold": {
+      "version": "^0.4.7",
       "useMock": false,
       "useSoramitsuVuetifyPlugin": true
     },
     "vue-cli-plugin-vuetify": {
+      "version": "^2.4.3",
       "preset": "configure",
       "replaceComponents": false,
       "useTheme": true,
