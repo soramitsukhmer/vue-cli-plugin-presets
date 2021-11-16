@@ -14,7 +14,7 @@
     },
     "@vue/cli-plugin-unit-jest": {},
     "@soramitsukhmer/vue-cli-plugin-scaffold": {
-      "version": "^0.4.7",
+      "version": "^0.5.0",
       "useMock": false,
       "useSoramitsuVuetifyPlugin": true
     },
