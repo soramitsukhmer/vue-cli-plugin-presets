@@ -28,6 +28,7 @@
       "installFonts": true,
       "useAlaCarte": true,
       "locale": "en"
-    }
+    },
+    "@socheatsok78/vue-cli-plugin-configure": {}
   }
 }
