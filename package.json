@@ -1,6 +1,6 @@
 {
   "name": "@soramitsukhmer/vue-cli-plugin-presets",
-  "version": "0.5.4",
+  "version": "0.6.0",
   "main": "index.js",
   "repository": "https://github.com/soramitsukhmer/vue-cli-plugin-presets.git",
   "author": "Socheat Sok <socheat@soramitsukhmer.com>",
