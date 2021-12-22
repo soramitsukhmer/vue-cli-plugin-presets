@@ -30,6 +30,7 @@ If you are having issues, make sure you have the following configuration in `~/.
 - Vuetify
 - `@soramitsukhmer/vue-cli-plugin-scaffold`
 - `@soramitsukhmer/vuetify-plugin`
+- `@socheatsok78/vue-cli-plugin-configure`
 
 ## 📦 Preset
 
