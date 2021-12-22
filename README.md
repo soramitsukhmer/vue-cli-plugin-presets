@@ -86,6 +86,11 @@ If you are having issues, make sure you have the following configuration in `~/.
 }
 ```
 
+**`@socheatsok78/vue-cli-plugin-configure`**
+```sh
+# Default
+```
+
 ## References
 
 - [Vue CLI - Plugin Development Guide](https://cli.vuejs.org/dev-guide/plugin-dev.html#getting-started)
